@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 30px;
+    padding-right: 20px;
+    color: #6d6d6d;
+}
+.header p {
+    padding-right: 30px; 
+}
+#lines {
+    padding-left: 30px;
+}
+#twitter {
+    padding-right: 5px;
+}
+.header p:hover {
+    color: #6d6d6d7a;
+}
+.header i:hover {
+    color: #6d6d6d7a;
+}
