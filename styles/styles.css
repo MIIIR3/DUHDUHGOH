@@ -41,7 +41,7 @@ body {
     border: 1px solid rgba(0,0,0,0.15);
     border-radius: 4px;
     height: 45.9531px;
-    width: 527.094px
+    width: 648.094px
 }
 .search i {
     position: absolute;
@@ -56,4 +56,22 @@ body {
     background-color: #66ad57;
     text-align: center;
     padding-top: 20px;
+}
+.search p {
+    margin-top: 40px;
+    color: #6d6d6d7a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(68, 149, 212);
+}
+#imagen-abajo-men-nieve {
+    height: 80px;
+    width: 80px; 
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
 }
